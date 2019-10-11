@@ -1,0 +1,7 @@
+[Unit]
+Description=Install  Chef Automate
+[Service]
+Type=oneshot
+ExecStart=/install.sh
+[Install]
+WantedBy=default.target
