@@ -60,3 +60,5 @@ data-feed-service       running        ok            685        2543</br>
 event-gateway           running        ok            683        3573</br>
 automate-gateway        running        ok            683        3615</br>
 automate-load-balancer  running        ok            682        2827</br>
+
+In a browser hit https://localhost to bring up A2
